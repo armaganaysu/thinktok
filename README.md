@@ -14,11 +14,11 @@ thinktok is designed to help users manage and reduce excess screen time and anxi
 ## Screenshots
 
 Here are some screenshots of the application:
-  ![Main Screen ](./screenshots/MainScreen1.png)
-  ![Main Screen ](./screenshots/MainScreen2.png)
-  ![Main Screen ](./screenshots/MainScreen3.png)
-  ![Likes List](./screenshots/LikesList.png)
-  ![Language Options](./screenshots/LanguageOptions.png)
+  <img src="./screenshots/MainScreen1.png" alt="Main Screen" width="300"/>
+  <img src="./screenshots/MainScreen2.png" alt="Main Screen" width="300"/>
+  <img src="./screenshots/MainScreen3.png" alt="Main Screen" width="300"/>
+  <img src="./screenshots/LikesList.png" alt="Likes List" width="300"/>
+  <img src="./screenshots/LanguageOptions.png" alt="Language Options" width="300"/>
 
 ## Installation
 
@@ -26,10 +26,6 @@ Here are some screenshots of the application:
 2. Navigate to the project folder: cd thinktok
 3. Install dependencies: npm install or yarn install
 4. Run the app: npm start or yarn start
-
-## Usage
-
-Describe how to use the app, e.g. how to monitor usage and get insights.
 
 ## License
 
